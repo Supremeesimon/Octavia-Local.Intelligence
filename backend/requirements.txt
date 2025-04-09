@@ -1,0 +1,12 @@
+# Workspace version: 1.44.6
+uvicorn[standard]==0.29.0
+python-multipart==0.0.9
+fastapi==0.111.0
+ipykernel==6.29.5
+databutton==0.38.34
+openai
+beautifulsoup4
+requests
+python-dotenv
+tenacity
+google-generativeai
