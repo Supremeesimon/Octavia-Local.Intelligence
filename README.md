@@ -7,6 +7,14 @@ Octavia LocalIntel is a dark-themed, AI-powered web application that helps devel
 
 ---
 <img width="1672" alt="Screenshot 2025-04-08 at 8 23 08 PM" src="https://github.com/user-attachments/assets/0ae368ab-7ebc-4d15-924c-85af3963257d" />
+<img width="1680" alt="Screenshot 2025-04-08 at 8 23 22 PM" src="https://github.com/user-attachments/assets/ee30254d-e307-41cf-998e-ce4c03013b61" />
+<img width="1680" alt="Screenshot 2025-04-08 at 8 23 32 PM" src="https://github.com/user-attachments/assets/88513c81-2b2d-40b8-b765-f99723478e09" />
+<img width="1680" alt="Screenshot 2025-04-08 at 8 23 43 PM" src="https://github.com/user-attachments/assets/7e49cd88-9b0e-4120-a6e4-2ba866cb9dd3" />
+<img width="1680" alt="Screenshot 2025-04-08 at 8 23 50 PM" src="https://github.com/user-attachments/assets/b1cbda30-6f4f-4685-8775-565042e29911" />
+
+
+
+
 
 
 ## 🚀 Features
