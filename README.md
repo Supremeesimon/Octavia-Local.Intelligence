@@ -6,6 +6,8 @@
 Octavia LocalIntel is a dark-themed, AI-powered web application that helps developers discover local businesses that need digital help—like those with no websites or poor online ratings. Identify leads, visualize data, and export outreach-ready business lists with ease.
 
 ---
+<img width="1672" alt="Screenshot 2025-04-08 at 8 23 08 PM" src="https://github.com/user-attachments/assets/0ae368ab-7ebc-4d15-924c-85af3963257d" />
+
 
 ## 🚀 Features
 
