@@ -17,6 +17,41 @@ Octavia LocalIntel is a dark-themed, AI-powered web application that helps devel
 
 
 
+
+
+
+🧠 Python-Powered Backend
+Octavia's backend is heavily powered by Python, designed for clean API routing, AI integration, secure auth, and smart data processing.
+
+📂 Backend File Structure (Key Files)
+File	Purpose
+backend/main.py	Initializes the FastAPI app, sets up routers, and configures Firebase Auth
+
+backend/app/auth/__init__.py	Initializes auth module and exposes AuthorizedUser, User classes
+
+backend/app/auth/user.py	Defines User models used across requests and JWT parsing
+
+backend/databutton_app/mw/auth_mw.py	Middleware to validate Firebase JWT tokens and extract user info
+
+backend/databutton_app/mw/__init__.py	Initializes the middleware module
+
+backend/app/apis/business_analysis/__init__.py	Logic for analyzing business opportunity data from Serper (scores leads)
+
+backend/app/apis/gemini/__init__.py	Handles Gemini API communication and user prompts
+
+backend/app/apis/serper/__init__.py	Handles Serper API search queries and formats response data
+
+
+✅ Modular routes
+
+✅ Secure auth middleware
+
+✅ AI and data integrations
+
+✅ Production-ready with FastAPI
+
+
+
 ## 🚀 Features
 
 - 🔍 Find businesses by location, category, and rating
@@ -128,26 +163,4 @@ Powered by Gemini, Serper, React, and Python
 Inspired by real developer pain points and local lead gen strategies
 
 
-🧠 Python-Powered Backend
-Octavia's backend is heavily powered by Python, designed for clean API routing, AI integration, secure auth, and smart data processing.
 
-📂 Backend File Structure (Key Files)
-File	Purpose
-backend/main.py	Initializes the FastAPI app, sets up routers, and configures Firebase Auth
-backend/app/env.py	Sets environment mode (dev or prod) using DATABUTTON_SERVICE_TYPE
-backend/app/auth/__init__.py	Initializes auth module and exposes AuthorizedUser, User classes
-backend/app/auth/user.py	Defines User models used across requests and JWT parsing
-backend/databutton_app/mw/auth_mw.py	Middleware to validate Firebase JWT tokens and extract user info
-backend/databutton_app/mw/__init__.py	Initializes the middleware module
-backend/app/apis/business_analysis/__init__.py	Logic for analyzing business opportunity data from Serper (scores leads)
-backend/app/apis/gemini/__init__.py	Handles Gemini API communication and user prompts
-backend/app/apis/serper/__init__.py	Handles Serper API search queries and formats response data
-This architecture separates concerns clearly:
-
-✅ Modular routes
-
-✅ Secure auth middleware
-
-✅ AI and data integrations
-
-✅ Production-ready with FastAPI
